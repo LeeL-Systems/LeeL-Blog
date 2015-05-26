@@ -1,5 +1,5 @@
 name: LeeL Blog
-url: http://RogerioDosSantos.github.io
+url: http://leel-systems.github.io
 baseurl: /LeeL-Blog
 #url: http://127.0.0.1:4000
 #baseurl: /
@@ -16,7 +16,7 @@ leelBlog-categories:
     foot-position: -1
 leelBlog-sites:
   Github:
-    link: https://github.com/RogerioDosSantos
+    link: https://github.com/LeeL-Systems
     display-style: socialMedia
     position: 0
 markdown: kramdown
