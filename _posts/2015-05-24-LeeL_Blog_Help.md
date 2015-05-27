@@ -3,9 +3,9 @@ layout: post
 published: true
 resource_folder: 'post'
 type: 'Blog'
-subject: 'GithNote Help'
-title: 'GithNote Help'
-category: 'GithNote'
+subject: 'LeeL Blog Help'
+title: 'LeeL Blog Help'
+category: 'LeeL Blog'
 image: 'post_knowledge.jpg'
 author: ''
 ---
