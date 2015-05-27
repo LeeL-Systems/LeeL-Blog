@@ -3,9 +3,9 @@ layout: post
 published: true
 resource_folder: 'post'
 type: 'Blog'
-subject: 'About GithNote'
-title: 'About GithNote'
-category: 'GithNote'
+subject: 'About LeeL Blog'
+title: 'About LeeL Blog'
+category: 'LeeL Blog'
 image: 'post_knowledge.jpg'
 author: ''
 ---
@@ -13,7 +13,7 @@ author: ''
 
 
 
-Welcome to GithNote
+Welcome to LeeL Blog
 ================
 
 
