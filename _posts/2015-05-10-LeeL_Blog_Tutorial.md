@@ -1,6 +1,6 @@
 ---
 layout: post
-type: "blog"
+type: "Blog"
 subject: "LeeL Blog"
 title: "Welcome to LeeL Blog"
 category: "development"
