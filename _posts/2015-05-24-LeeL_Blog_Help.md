@@ -2,11 +2,11 @@
 layout: post
 published: true
 resource_folder: 'post'
-type: 'undefined'
+type: 'Blog'
 subject: 'LeeL Blog Help'
 title: 'LeeL Blog Help'
 category: 'LeeL Blog'
-image: 'no_image.jpg'
+image: 'post_cpp.jpg'
 author: ''
 ---
 
