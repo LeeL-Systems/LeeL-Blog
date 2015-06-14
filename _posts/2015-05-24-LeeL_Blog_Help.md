@@ -6,17 +6,23 @@ type: 'Blog'
 subject: 'LeeL Blog Help'
 title: 'LeeL Blog Help'
 category: 'LeeL Blog'
-image: 'post_knowledge.jpg'
+image: 'post_blog.jpg'
 author: ''
 ---
 
 
 
-Introduction
+LeeL Blog
 =============
 
 
-On this main helper page you will find several links related by topic.
+* [About LeeL Blog](http://leel-systems.github.io/LeeL-Blog/About_LeeL_Blog/)
+* [Quick Start](http://leel-systems.github.io/LeeL-Blog/Quick_Start/)
+* [Markdown Tutorial](http://leel-systems.github.io/LeeL-Blog/Markdown_Tutorial/)
+
+
+
+
 
 
 
