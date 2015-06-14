@@ -6,7 +6,7 @@ type: 'Blog'
 subject: 'LeeL Blog Help'
 title: 'LeeL Blog Help'
 category: 'LeeL Blog'
-image: 'post_cpp.jpg'
+image: 'post_knowledge.jpg'
 author: ''
 ---
 
