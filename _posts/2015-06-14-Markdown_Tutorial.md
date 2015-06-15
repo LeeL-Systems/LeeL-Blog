@@ -35,7 +35,7 @@ Links
 To use text for the link, write it [like this](http://someurl).
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/b901367e78da663fb0c0"]
+<script src="https://gist.github.com/RogerioDosSantos/b901367e78da663fb0c0.js"></script>
 
 
 
@@ -43,7 +43,7 @@ To use text for the link, write it [like this](http://someurl).
 You can add a *title* (which shows up under the cursor) [like this](http://someurl "this title shows up when you hover").
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/1d47d91c6f6a97db66f0"]
+<script src="https://gist.github.com/RogerioDosSantos/1d47d91c6f6a97db66f0.js"></script>
 
 
 
@@ -116,7 +116,7 @@ part of the blockquote, even without the > character in front.
 To end the blockquote, just put a blank line before the following paragraph.
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/35e67a039672ae1d604c"]
+<script src="https://gist.github.com/RogerioDosSantos/35e67a039672ae1d604c.js"></script>
 
 
 Preformatted Text
@@ -174,7 +174,7 @@ To start an ordered list, write this:
         
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/dae0fed0e393db3907a6"]
+<script src="https://gist.github.com/RogerioDosSantos/dae0fed0e393db3907a6.js"></script>
 
 
 Headers
@@ -199,9 +199,7 @@ smaller header for subtitles or sections.
 
 
 
-
-
-[gist url="https://gist.github.com/RogerioDosSantos/0a92683c947a885d7351"]
+<script src="https://gist.github.com/RogerioDosSantos/0a92683c947a885d7351.js"></script>
 
 
 Horizontal Rule
@@ -235,7 +233,7 @@ you will get a header
 
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/7dbd876cf79222bd0d73"]
+<script src="https://gist.github.com/RogerioDosSantos/7dbd876cf79222bd0d73.js"></script>
 
 
 Images
@@ -263,7 +261,7 @@ You can also use a title if you want, like this:
 
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/b06882e523dd57fc0749"]
+<script src="https://gist.github.com/RogerioDosSantos/b06882e523dd57fc0749.js"></script>
 
 
 Escapes
@@ -288,7 +286,7 @@ for Markdown.
 
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/48b9ee1a00e54764c854"]
+<script src="https://gist.github.com/RogerioDosSantos/48b9ee1a00e54764c854.js"></script>
 
 
 More Headers
@@ -314,7 +312,7 @@ You can use up to 6 `#` characters at the beginning of the line.
 
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/e277d25846e1c57b1dfc"]
+<script src="https://gist.github.com/RogerioDosSantos/e277d25846e1c57b1dfc.js"></script>
 
 
 HTML crap
@@ -332,7 +330,7 @@ less-than sign, and they show up as I intend them to:  3 < 4.
 
 
 
-[gist url="https://gist.github.com/RogerioDosSantos/7a2058ab8c2bb0ddcf43"]
+<script src="https://gist.github.com/RogerioDosSantos/7a2058ab8c2bb0ddcf43.js"></script>
 
 
 Thanks
