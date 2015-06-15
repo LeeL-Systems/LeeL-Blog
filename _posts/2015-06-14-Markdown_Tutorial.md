@@ -16,11 +16,11 @@ Markdown
 ===================
 
 
-Markdown is a format syntax language way easier to use maintain than HTML when creating or editing your posts. 
-Oposite of HTML, Markdown does relies in tags for formatting your text. Steady, Markdown uses syntax rules that fits naturally on your text as a result you focus on the content you are writing and not the language specific tags that you should use.
+Markdown is a format syntax language way easier to use maintain than HTML when creating or editing your posts.  
+Oposite of HTML, Markdown does relies in tags for formatting your text. Steady, Markdown uses syntax rules that fits naturally on your text as a result you focus on the content you are writing and not the language specific tags that you should use. 
 
 
-Inside a Markdown, you can still use HTML if you will, giving you the freedom to decide witch way to format your post you want to apply. 
+Inside a Markdown, you can still use HTML if you will, giving you the freedom to decide witch way to format your post you want to apply.  
 
 
 
@@ -55,22 +55,22 @@ Reference Links
 You can also put the [link URL][1] below the current paragraph like [this][2].
 
 
- [1]: http://url
- [2]: http://another.url "A funky title"
+   [1]: http://url
+   [2]: http://another.url "A funky title"
 
 
-Here the text "link URL" gets linked to "http://url", and the lines showing
+Here the text "link URL" gets linked to "http://url", and the lines showing 
 "[1]: http://url" won't show anything.
 
 
 
 
-Or you can use a [shortcut][] reference, which links the text "shortcut"
+Or you can use a [shortcut][] reference, which links the text "shortcut" 
 to the link named "[shortcut]" on the next paragraph.
 
 
- [shortcut]: http://goes/with/the/link/name/text
- 
+   [shortcut]: http://goes/with/the/link/name/text
+   
 
 
 
@@ -82,18 +82,18 @@ Text
 Use * or _ to emphasize things:
 
 
-*this is in italic* and _so is this_
+*this is in italic*  and _so is this_
 
 
-**this is in bold** and __so is this__
+**this is in bold**  and __so is this__
 
 
-***this is bold and italic*** and ___so is this___
+***this is bold and italic***  and ___so is this___
 
 
 
 
-Just write paragraphs like in a text file and they will display how you would expect. A blank line separates paragraphs.
+Just write paragraphs like in a text file and they will display how you would expect.  A blank line separates paragraphs.
 
 
 So this is a new paragraph. But any text on adjacent lines will all end up in the same paragraph.
@@ -110,7 +110,7 @@ Blockquotes
 > You can use *italic* or lists inside them also.
 And just like with other paragraphs,
 all of these lines are still
-part of the blockquote, even without the > character in front. 
+part of the blockquote, even without the > character in front.  
 
 
 To end the blockquote, just put a blank line before the following paragraph.
@@ -127,24 +127,24 @@ If you want some text to show up exactly as you write it, without Markdown
 doing anything to it, just indent every line by at least 4 spaces (or 1 tab).
 
 
-  This line won't *have any markdown* formatting applied.
-  You can even write <b>HTML</b> and it will show up as text.
-  This is great for showing program source code, or HTML or even Markdown.
-  <b>this won't show up as HTML</b> but exactly <i>as you see it in
-  this text file</i>.
+    This line won't *have any markdown* formatting applied.
+    You can even write <b>HTML</b> and it will show up as text.
+    This is great for showing program source code, or HTML or even Markdown.
+    <b>this won't show up as HTML</b> but exactly <i>as you see it in
+    this text file</i>.
 
 
 (In a normal paragraph, <b>this will show up in bold</b> just like normal HTML.)
- 
- Remember, you have to indent by *at least 4 spaces* to do it. This paragraph won't be preformatted because has only 3 idents.
- 
-And if you use [reference][] links, make sure the links are indented
+    
+   Remember, you have to indent by *at least 4 spaces* to do it.  This paragraph won't be preformatted because has only 3 idents.
+   
+And if you use [reference][] links, make sure the links are indented 
 by *fewer than* 4 spaces.
- 
-  [reference]: http://example.com/blah
+   
+    [reference]: http://example.com/blah
 
 
-(Woops, that link didn't work, see? It just got displayed as preformatted text.) 
+(Woops, that link didn't work, see? It just got displayed as preformatted text.)  
 
 
 As a shortcut you can use backquotes to do the same thing while inside
@@ -165,13 +165,13 @@ To start an ordered list, write this:
 
 
 1. this starts a list *with* numbers
-+ this will show as number "2"
-* this will show as number "3"
++  this will show as number "2"
+*  this will show as number "3"
 9. any number, +, -, or * will keep the list going.
-  * just indent by 4 spaces (or tab) to make a sub-list
-    1. keep indenting for more sub lists
-  * here i'm back to the second level
-   
+    * just indent by 4 spaces (or tab) to make a sub-list
+        1. keep indenting for more sub lists
+    * here i'm back to the second level
+        
 
 
 [gist url="https://gist.github.com/RogerioDosSantos/dae0fed0e393db3907a6"]
@@ -220,17 +220,17 @@ or you can use single spaces between then, like this:
 * * *
 
 
-or
+or 
 
 
-- - - - - - -
+- - - - - - - 
 
 
 Make sure you have a blank line above the dashes, though, or else:
 
 
 you will get a header
----
+--- 
 
 
 
@@ -306,7 +306,7 @@ More ways of doing headers:
 ###### smallest still: `<h6>` header
 
 
-You can use up to 6 `#` characters at the beginning of the line. 
+You can use up to 6 `#` characters at the beginning of the line.  
 (You can optionally put them on the end, too, and they will disappear.)
 
 
@@ -321,11 +321,11 @@ HTML crap
 -------------
 
 
-Don't worry about special HTML characters. I can write an ampersand & a
-less-than sign, and they show up as I intend them to: 3 < 4.
+Don't worry about special HTML characters. I can write an ampersand & a 
+less-than sign, and they show up as I intend them to:  3 < 4.
 
 
-(You can still write `&amp;` (& character) and `&lt;` (<) or `&gt;` (>) if you want. or ignore what I just said.)
+(You can still write `&amp;` (& character) and `&lt;` (<) or `&gt;` (>) if you want.  or ignore what I just said.)
 
 
 
