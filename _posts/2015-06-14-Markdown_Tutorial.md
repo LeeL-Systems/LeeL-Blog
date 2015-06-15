@@ -243,9 +243,7 @@ Images
 To include an image, just put a "!" in front of a text link:
 
 
-![alternate text](https://www.dropbox.com/s/pn9iv1bsuaxkaii/Rogerio_Simpson.jpg)
-
-
+![Blog Post Network](http://leel-systems.github.io/LeeL-Blog/resources/page/Post/post_network.jpg "Blog Post Network")
 
 
 The "alternate text" will show up if the browser can't load the image.
@@ -254,7 +252,7 @@ The "alternate text" will show up if the browser can't load the image.
 You can also use a title if you want, like this:
 
 
-![tiny arrow](https://www.dropbox.com/s/pn9iv1bsuaxkaii/Rogerio_Simpson.jpg "tiny arrow")
+![Blog Post Image](http://leel-systems.github.io/LeeL-Blog/resources/page/Post/post_blog.jpg "Blog Post Image")
 
 
 
