@@ -61,7 +61,7 @@ You can also put the [link URL][1] below the current paragraph like [this][2].
 
 
 
-<script src="https://gist.github.com/RogerioDosSantos/91f8f7ee8b7a3bd134fd.js"></script>
+<script src="https://gist.github.com/RogerioDosSantos/6f21e6f9dfd58959cf40.js"></script>
 
 
 
@@ -76,7 +76,10 @@ Or you can use a [shortcut][] reference, which links the text "shortcut"
 to the link named "[shortcut]" on the next paragraph.
 
 
-   [shortcut]: http://goes/with/the/link/name/text
+   [shortcut]: http://leel-systems.github.io/LeeL-Blog
+
+
+<script src="https://gist.github.com/RogerioDosSantos/789a2b9b11c717aee445.js"></script>
    
 
 
@@ -94,6 +97,11 @@ Use * or _ to emphasize things:
 
 
 ***this is bold and italic***  and ___so is this___
+
+
+
+
+<script src="https://gist.github.com/RogerioDosSantos/9cd9c06d8cd2da5e6a07.js"></script>
 
 
 
@@ -140,13 +148,19 @@ doing anything to it, just indent every line by at least 4 spaces (or 1 tab).
 
 
 (In a normal paragraph, <b>this will show up in bold</b> just like normal HTML.)
+
+
+<script src="https://gist.github.com/RogerioDosSantos/bac54017174cd70d83f9.js"></script>
     
    Remember, you have to indent by *at least 4 spaces* to do it.  This paragraph won't be preformatted because has only 3 idents.
    
+<script src="https://gist.github.com/RogerioDosSantos/a00a2d4399d8b370748b.js"></script>
+
+
 And if you use [reference][] links, make sure the links are indented 
 by *fewer than* 4 spaces.
    
-    [reference]: http://example.com/blah
+    [reference]: http://leel-systems.github.io/LeeL-Blog
 
 
 (Woops, that link didn't work, see? It just got displayed as preformatted text.)  
@@ -154,6 +168,9 @@ by *fewer than* 4 spaces.
 
 As a shortcut you can use backquotes to do the same thing while inside
 a normal paragraph. `This won't be *italic* or **bold** at all.`
+
+
+<script src="https://gist.github.com/RogerioDosSantos/da9c3ccf5a8c316b7589.js"></script>
 
 
 Lists
@@ -164,6 +181,9 @@ Lists
 * and this is another item in the list
 + or you can also use the + character
 - or the - character
+
+
+<script src="https://gist.github.com/RogerioDosSantos/f64cd3ccd4a9ecc8cf66.js"></script>
 
 
 To start an ordered list, write this:
@@ -179,7 +199,9 @@ To start an ordered list, write this:
         
 
 
-<script src="https://gist.github.com/RogerioDosSantos/dae0fed0e393db3907a6.js"></script>
+<script src="https://gist.github.com/RogerioDosSantos/c805fca583282d610e91.js"></script>
+
+
 
 
 Headers
@@ -262,9 +284,9 @@ You can also use a title if you want, like this:
 
 
 
+<script src="https://gist.github.com/RogerioDosSantos/bdf2f8306c7e32b3c430.js"></script>
 
 
-<script src="https://gist.github.com/RogerioDosSantos/b06882e523dd57fc0749.js"></script>
 
 
 Escapes
@@ -299,12 +321,12 @@ More Headers
 More ways of doing headers:
 
 
-# this is a huge header #
-## this is a smaller header ##
-### this is even smaller ###
-#### more small ####
-##### even smaller #####
-###### smallest still: `<h6>` header
+#this is a huge header#
+##this is a smaller header##
+###this is even smaller###
+####more small####
+#####even smaller#####
+######smallest still: `<h6>` header
 
 
 You can use up to 6 `#` characters at the beginning of the line.  
@@ -313,9 +335,9 @@ You can use up to 6 `#` characters at the beginning of the line.
 
 
 
-
-
 <script src="https://gist.github.com/RogerioDosSantos/e277d25846e1c57b1dfc.js"></script>
+
+
 
 
 HTML crap
@@ -334,6 +356,8 @@ less-than sign, and they show up as I intend them to:  3 < 4.
 
 
 <script src="https://gist.github.com/RogerioDosSantos/7a2058ab8c2bb0ddcf43.js"></script>
+
+
 
 
 Thanks
