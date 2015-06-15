@@ -6,7 +6,7 @@ type: 'Blog'
 subject: 'LeeL Blog - Release Notes'
 title: 'LeeL Blog - Release Notes'
 category: 'LeeL Blog'
-image: 'post_blog.jpg'
+image: 'post_engineering.jpg'
 author: 'Rogerio dos Santos'
 ---
 
