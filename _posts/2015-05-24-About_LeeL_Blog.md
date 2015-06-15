@@ -20,7 +20,7 @@ Welcome to LeeL Blog
 LeeL Blog allows you blog for free usingEvernote ( [www.evernote.com](www.evernote.com)) as your post editor andGithub ( [www.github.com](www.github.com) )as your website host.
 
 
-Using our blog template, you can create your new blog in seconds, without anyprogramingknowledge orhassle.
+Using our blog template, you can create your new blog in seconds, without anyprogramingknowledge norhassle.
 
 
 You canchoose topost in standard HTML or the well known Markdown syntax of formating.
@@ -38,7 +38,7 @@ Why would you pay for similar services like [www.postach.io](www.postach.io) if 
 Why would you pay for a host service like [www.wordpress.com](www.wordpress.com) or opt to have storage limits and ads on your website if you can have it for free without any limitation and have your site hosted in a reliable company as Github?
 
 
-If you are like us, andbelievethat anyone should have the right to easily and freelydisseminateideas, give LeeL Blog a try!
+If you are like us andbelievethat anyone should have the right to easily and freelydisseminateideas, give LeeL Blog a try!
 
 
 
