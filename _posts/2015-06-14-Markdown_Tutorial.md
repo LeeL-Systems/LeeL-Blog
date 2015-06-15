@@ -55,8 +55,15 @@ Reference Links
 You can also put the [link URL][1] below the current paragraph like [this][2].
 
 
-   [1]: http://url
-   [2]: http://another.url "A funky title"
+   [1]: http://leel-systems.github.io/LeeL-Blog
+   [2]: http://leel-systems.github.io/LeeL-Blog "A link url with a funk title"
+
+
+
+
+<script src="https://gist.github.com/RogerioDosSantos/91f8f7ee8b7a3bd134fd.js"></script>
+
+
 
 
 Here the text "link URL" gets linked to "http://url", and the lines showing 
@@ -71,8 +78,6 @@ to the link named "[shortcut]" on the next paragraph.
 
    [shortcut]: http://goes/with/the/link/name/text
    
-
-
 
 
 Text
