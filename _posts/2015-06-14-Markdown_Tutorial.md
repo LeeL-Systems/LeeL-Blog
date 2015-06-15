@@ -6,7 +6,7 @@ type: 'Blog'
 subject: 'Markdown Tutorial'
 title: 'Markdown Tutorial'
 category: 'LeeL Blog'
-image: 'post_knowledge.jpg'
+image: 'post_blog.jpg'
 author: 'Rogerio dos Santos'
 ---
 
@@ -105,12 +105,12 @@ Blockquotes
 ----------
 
 
-&gt; Use the &gt; character in front of a line, *just like in email*.
-&gt; Use it if you're quoting a person, a song or whatever.
-&gt; You can use *italic* or lists inside them also.
+> Use the > character in front of a line, *just like in email*.
+> Use it if you're quoting a person, a song or whatever.
+> You can use *italic* or lists inside them also.
 And just like with other paragraphs,
 all of these lines are still
-part of the blockquote, even without the &gt; character in front. 
+part of the blockquote, even without the > character in front. 
 
 
 To end the blockquote, just put a blank line before the following paragraph.
@@ -128,13 +128,13 @@ doing anything to it, just indent every line by at least 4 spaces (or 1 tab).
 
 
   This line won't *have any markdown* formatting applied.
-  You can even write &lt;b&gt;HTML&lt;/b&gt; and it will show up as text.
+  You can even write <b>HTML</b> and it will show up as text.
   This is great for showing program source code, or HTML or even Markdown.
-  &lt;b&gt;this won't show up as HTML&lt;/b&gt; but exactly &lt;i&gt;as you see it in
-  this text file&lt;/i&gt;.
+  <b>this won't show up as HTML</b> but exactly <i>as you see it in
+  this text file</i>.
 
 
-(In a normal paragraph, &lt;b&gt;this will show up in bold&lt;/b&gt; just like normal HTML.)
+(In a normal paragraph, <b>this will show up in bold</b> just like normal HTML.)
  
  Remember, you have to indent by *at least 4 spaces* to do it. This paragraph won't be preformatted because has only 3 idents.
  
@@ -303,7 +303,7 @@ More ways of doing headers:
 ### this is even smaller ###
 #### more small ####
 ##### even smaller #####
-###### smallest still: `&lt;h6&gt;` header
+###### smallest still: `<h6>` header
 
 
 You can use up to 6 `#` characters at the beginning of the line. 
@@ -321,11 +321,11 @@ HTML crap
 -------------
 
 
-Don't worry about special HTML characters. I can write an ampersand &amp; a
-less-than sign, and they show up as I intend them to: 3 &lt; 4.
+Don't worry about special HTML characters. I can write an ampersand & a
+less-than sign, and they show up as I intend them to: 3 < 4.
 
 
-(You can still write `&amp;amp;` (&amp; character) and `&amp;lt;` (&lt;) or `&amp;gt;` (&gt;) if you want. or ignore what I just said.)
+(You can still write `&amp;` (& character) and `&lt;` (<) or `&gt;` (>) if you want. or ignore what I just said.)
 
 
 
