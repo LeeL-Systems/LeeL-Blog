@@ -1,0 +1,12 @@
+{
+    "version": 0.2,
+    "userInterfaceConfig": {
+        "siteTemplates": [
+			{
+				"name": "X Black and Write",
+				"repository": "LeeL-Blog-Template-01",
+				"description": "Black and Write Template with X separators"
+			}            
+        ]
+    }
+}
