@@ -6,10 +6,23 @@ type: 'Blog'
 subject: 'LeeL Blog - Release Notes'
 title: 'LeeL Blog - Release Notes'
 category: 'LeeL Blog'
-image: 'post_engineering.jpg'
+image: 'post_conference.jpg'
 author: 'Rogerio dos Santos'
 ---
 
+
+
+Version 0.3 - Beta Release
+===========
+
+
+* Added capability to edit Site configuration
+* Added capability to inform Google Analytics account on the Site. 
+* Added capability to inform Disqus account on the site.
+* Added the capability to preview site templates.
+
+* Allowed the creation and update of sites using "live" templates
+* Introduced Google Analytics Events
 
 
 Version 0.2 - Beta Release
