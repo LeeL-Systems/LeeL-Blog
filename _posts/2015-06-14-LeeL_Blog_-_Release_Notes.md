@@ -12,6 +12,13 @@ author: 'Rogerio dos Santos'
 
 
 
+Version 0.4 - Beta Release
+===========
+
+
+* Fixed a compilation problem introduced on the version 0.3 that would not allow the Publishing Tab to be enabled.
+
+
 Version 0.3 - Beta Release
 ===========
 
