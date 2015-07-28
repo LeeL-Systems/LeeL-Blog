@@ -1,20 +1,17 @@
-name: LeeL Blog
-url: http://leel-systems.github.io
+name: LeeL-Blog
+url: http://LeeL-Systems.github.io
 baseurl: /LeeL-Blog
-#url: http://127.0.0.1:4000
-#baseurl: /
-
-description: 
-avatar: 
-disqus: 
-google_analytics: UA-63348203-1
-leelBlog-categories:
+description: Blog for Free using Evernote and Github
+avatar: https://avatars3.githubusercontent.com/u/3682638?v=3&s=460
+disqus: leelsystems
+google_analytics: UA-63442817-2
+categoryConfigByCategory:
   Blog:
     display-style: post
     menu-position: -1
     header-position: 0
     foot-position: -1
-leelBlog-sites:
+siteConfigBySite:
   Github:
     link: https://github.com/LeeL-Systems
     display-style: socialMedia
