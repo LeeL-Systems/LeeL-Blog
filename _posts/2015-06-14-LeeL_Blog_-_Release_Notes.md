@@ -6,10 +6,19 @@ type: 'Blog'
 subject: 'LeeL Blog - Release Notes'
 title: 'LeeL Blog - Release Notes'
 category: 'LeeL Blog'
-image: 'post_conference.jpg'
+image: 'post_knowledge.jpg'
 author: 'Rogerio dos Santos'
 ---
 
+
+
+Version 0.5 - Beta Release
+===========
+
+
+* Fill the Site Configuration Details when a site is selected.
+* Improved the site update to allow faster Github pages actualizations.
+* Improved events messages.
 
 
 Version 0.4 - Beta Release
